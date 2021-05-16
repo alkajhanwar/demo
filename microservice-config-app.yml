@@ -1,9 +1,9 @@
 my:
-  greeting: hello world from microservice-config-app file1
+  greeting: hello world from microservice-config-app file12
   list: one,two,three,four,five,six
 
 
 db:
-  values: connection-string from microservice-config-app1
+  values: connection-string from microservice-config-app12
   port: 1400
   host: 129.0.0.0
